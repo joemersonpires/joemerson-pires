@@ -10,3 +10,5 @@
 <img align="center" height="50" width="60" src="https://cdn.iconscout.com/icon/free/png-256/css3-2038878-1720091.png" alt="imagem do icone css">
 <img align="center" height="50" width="60" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="imagem da linguagem em JavaScript">
 </div>
+
+![snake animation](https://github.com/joemersonpires/joemersonpires/blob/output/github-contribution-grid-snake.svg)
